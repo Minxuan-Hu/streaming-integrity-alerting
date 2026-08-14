@@ -1,0 +1,9 @@
+condition,kind,panel,detector,selected_main_row,n_rows,n_unique_base_trials,base_trial_set_matches_reference,base_trial_order_matches_reference,incident_windows_match_reference
+ON,freeze,score_only,coh_resid_t2,True,80,80,True,True,True
+ON,freeze,score_only,cusum_factor_cov_lrt,True,80,80,True,True,True
+ON,freeze,score_only,fused_fisher,True,80,80,True,True,True
+ON,freeze,all_only,max_abs,True,80,80,True,True,True
+OFF,freeze,score_only,coh_resid_t2,True,80,80,True,True,True
+OFF,freeze,score_only,cusum_factor_cov_lrt,True,80,80,True,True,True
+OFF,freeze,score_only,fused_fisher,True,80,80,True,True,True
+OFF,freeze,all_only,max_abs,True,80,80,True,True,True

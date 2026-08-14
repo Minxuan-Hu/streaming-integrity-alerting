@@ -1,0 +1,4 @@
+display_row,metric,successes,denominator,wilson_lower_two_sided_95,wilson_upper_two_sided_95
+CUSUM Factor LRT,matched_burden_contract_pass_rate,0,77,0.0,0.04751842528243408
+CUSUM Factor LRT,all_trial_contract_pass_rate,0,80,0.0,0.0458181295355271
+CUSUM Factor LRT,coverage_joint,0,80,0.0,0.0458181295355271

@@ -1,0 +1,15 @@
+Block,Metric,Recalibration off,Recalibration on
+Operating-point medians,Freeze matched-burden Timely@K,0.710,0.266
+Operating-point medians,CorrMix matched-burden Timely@K,0.513,0.245
+Operating-point medians,Freeze AIW,0.288,0.122
+Operating-point medians,CorrMix AIW,0.250,0.091
+Operating-point medians,Budget-only coverage,0.963,0.844
+Operating-point medians,Joint coverage,0.000,0.025
+Operating-point medians,All-trial contract-pass rate,0.000,0.018
+Intensity-grid summaries,Grid-median budget-only coverage,0.550,0.688
+Intensity-grid summaries,Observed nonzero-joint detectors,0/19,8/19
+Intensity-grid summaries,Freeze monotonicity pass count,7/14,11/12
+Intensity-grid summaries,CorrMix monotonicity pass count,14/14,12/12
+Clean-regime compliance,Mean regime-pass rate,0.098,0.516
+Clean-regime compliance,Mean TIW-violation fraction,0.881,0.481
+Clean-regime compliance,Mean episode-budget violation fraction,0.393,0.130

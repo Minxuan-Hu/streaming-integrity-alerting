@@ -1,0 +1,7 @@
+estimand,configuration_menu_size,on_value,off_value,difference_of_fixed_menu_medians_ON_minus_OFF,median_paired_configuration_change_ON_minus_OFF,primary_contrast
+budget_coverage_median_19,19,0.6875,0.55,0.13749999999999996,0.0,difference_of_fixed_menu_medians_ON_minus_OFF
+joint_coverage_median_19,19,0.0,0.0,0.0,0.0,difference_of_fixed_menu_medians_ON_minus_OFF
+all_trial_contract_pass_median_38,38,0.1125,0.0,0.1125,0.10625000000000001,difference_of_fixed_menu_medians_ON_minus_OFF
+matched_burden_timely_median_22,22,0.2481331168831169,0.49375,-0.24561688311688312,-0.25907131661442007,difference_of_fixed_menu_medians_ON_minus_OFF
+matched_burden_contract_pass_median_22,22,0.01818181818181818,0.0,0.01818181818181818,0.01818181818181818,difference_of_fixed_menu_medians_ON_minus_OFF
+nonzero_joint_fraction_19,19,0.42105263157894735,0.0,0.42105263157894735,nan,change_in_fraction; paired transition counts reported separately

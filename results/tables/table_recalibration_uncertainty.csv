@@ -1,0 +1,6 @@
+Quantity,Configurations,Recalibration on [95% interval],Recalibration off [95% interval],On minus off [95% interval],Total replicates,Valid replicates,Valid fraction
+Median budget coverage,19,"0.688 [0.575, 0.763]","0.550 [0.500, 0.663]","+0.138 [-0.038, 0.225]",5000,5000,1
+Median joint coverage,19,"0.000 [0.000, 0.000]","0.000 [0.000, 0.000]","0.000 [0.000, 0.000]",5000,5000,1
+Median all-trial contract pass,38,"0.113 [0.063, 0.163]","0.000 [0.000, 0.000]","+0.113 [0.063, 0.163]",5000,5000,1
+Median matched-burden Timely@K among configurations defined under both settings,22,"0.248 [0.165, 0.327]","0.494 [0.427, 0.588]","-0.246 [-0.345, -0.187]",5000,4770,0.954
+Median matched-burden contract pass among configurations defined under both settings,22,"0.018 [0.000, 0.059]","0.000 [0.000, 0.000]","+0.018 [0.000, 0.059]",5000,4770,0.954

@@ -1,0 +1,6 @@
+estimand,configuration_menu_size,point_ON_fixed_menu_median,point_OFF_fixed_menu_median,point_difference_of_fixed_menu_medians_ON_minus_OFF,point_median_paired_configuration_change_ON_minus_OFF,R_total,R_valid,valid_fraction,meets_reporting_criterion,ON_lower_2_5,ON_upper_97_5,OFF_lower_2_5,OFF_upper_97_5,difference_lower_2_5,difference_upper_97_5,median_paired_configuration_change_treatment
+budget_coverage_median_19,19,0.6875,0.55,0.13749999999999996,0.0,5000,5000,1.0,True,0.575,0.7625,0.5,0.6625,-0.03749999999999998,0.22499999999999998,descriptive point estimate only
+joint_coverage_median_19,19,0.0,0.0,0.0,0.0,5000,5000,1.0,True,0.0,0.0,0.0,0.0,0.0,0.0,descriptive point estimate only
+all_trial_contract_pass_median_38,38,0.1125,0.0,0.1125,0.10625000000000001,5000,5000,1.0,True,0.0625,0.1625,0.0,0.0,0.0625,0.1625,descriptive point estimate only
+matched_burden_timely_median_22,22,0.2481331168831169,0.49375,-0.24561688311688312,-0.25907131661442007,5000,4770,0.954,True,0.16542207792207791,0.327039161392405,0.42678571428571427,0.5874999999999999,-0.34535269830161475,-0.18695258483917304,descriptive point estimate only
+matched_burden_contract_pass_median_22,22,0.01818181818181818,0.0,0.01818181818181818,0.01818181818181818,5000,4770,0.954,True,0.0,0.058823529411764705,0.0,0.0,0.0,0.058823529411764705,descriptive point estimate only

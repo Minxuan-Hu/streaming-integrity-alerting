@@ -1,0 +1,2 @@
+run,kind,panel,budget,attack_strength,detector_menu,n_detectors,n_unique_base_trials,n_pooled_detector_trials,n_no_alert_stream_change,fraction_no_alert_stream_change,n_changed_with_warning_overlap,fraction_changed_with_warning_overlap,n_silent_suppression,fraction_silent_suppression,interpretation
+cfpb_online_recal1_seed0,freeze,attacked,1.0,1.0,fixed observed positive-budget menu,12,80,960,488,0.5083333333333333,360,0.375,112,0.11666666666666667,Pooled descriptive rate across detector configurations and base trials.

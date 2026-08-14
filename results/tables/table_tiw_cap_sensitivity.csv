@@ -1,0 +1,7 @@
+TIW cap,Incident family,Budget-only coverage,Joint coverage,Matched-burden contract pass,Matched-burden Timely@K,Mean corrupted-replay TIW
+0.10,Freeze,0.700,0.000,0.000,0.313,0.205
+0.10,CorrMix,0.700,0.000,0.000,0.146,0.208
+0.15,Freeze,0.844,0.025,0.018,0.266,0.223
+0.15,CorrMix,0.844,0.025,0.018,0.245,0.224
+0.20,Freeze,0.763,0.113,0.091,0.263,0.244
+0.20,CorrMix,0.763,0.113,0.091,0.275,0.244

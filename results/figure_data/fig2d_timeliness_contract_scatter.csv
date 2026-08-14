@@ -1,0 +1,5 @@
+display_row,panel,matched_burden_timely_at_k,matched_burden_contract_pass_rate,coverage_joint
+Fused Fisher,attacked,0.4415584415584415,0.3376623376623376,0.45
+Coherence T²,attacked,0.8,0.0875,0.0875
+CUSUM Factor LRT,attacked,0.8831168831168831,0.0,0.0
+Max Abs control,control,0.275,0.125,0.175

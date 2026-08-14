@@ -1,0 +1,13 @@
+detector
+T2
+coh_resid_energy
+coh_resid_t2
+cusum_coh_resid_t2
+cusum_factor_cov_lrt
+ewma_coh_resid_t2
+factor_cov_lrt_delta
+fused_fisher
+fused_sp
+fused_sp_lrt_delta
+pc_t2
+res_energy

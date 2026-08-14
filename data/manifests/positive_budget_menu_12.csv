@@ -1,0 +1,13 @@
+detector,panel,canonical_source_family,n_total,n_A_B,n_A_J,coverage_budget,coverage_joint
+T2,attacked,freeze,80,52,0,0.65,0.0
+coh_resid_energy,attacked,freeze,80,80,14,1.0,0.175
+coh_resid_t2,attacked,freeze,80,80,7,1.0,0.0875
+cusum_coh_resid_t2,attacked,freeze,80,38,0,0.475,0.0
+cusum_factor_cov_lrt,attacked,freeze,80,77,0,0.9625,0.0
+ewma_coh_resid_t2,attacked,freeze,80,80,0,1.0,0.0
+factor_cov_lrt_delta,attacked,freeze,80,78,39,0.975,0.4875
+fused_fisher,attacked,freeze,80,77,36,0.9625,0.45
+fused_sp,attacked,freeze,80,55,2,0.6875,0.025
+fused_sp_lrt_delta,attacked,freeze,80,55,2,0.6875,0.025
+pc_t2,attacked,freeze,80,58,6,0.725,0.075
+res_energy,attacked,freeze,80,55,2,0.6875,0.025

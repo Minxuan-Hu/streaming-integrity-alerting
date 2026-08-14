@@ -1,0 +1,21 @@
+Dataset,Incident family,Detector family,Detector,Matched-burden Timely@K,Matched-burden contract pass,Joint coverage
+A-1,Freeze,Scalar/statistical,Max Abs,0.100,0.100,1.000
+A-1,Freeze,Factor/covariance,Factor-Cov LRT,0.233,0.233,1.000
+A-1,Freeze,Coherence,Coherence Residual Energy,0.333,0.333,1.000
+A-1,Freeze,Fused,Fused Fisher + LRT-Δ,0.033,0.033,1.000
+A-1,Freeze,EWMA/CUSUM,CUSUM Coherence T²,0.500,0.500,0.400
+A-1,CorrMix,Scalar/statistical,Principal-Component T²,0.367,0.367,1.000
+A-1,CorrMix,Factor/covariance,Factor-Cov LRT,0.233,0.233,1.000
+A-1,CorrMix,Coherence,Coherence Residual T²,0.300,0.300,1.000
+A-1,CorrMix,Fused,Fused Fisher + LRT-Δ,0.300,0.300,1.000
+A-1,CorrMix,EWMA/CUSUM,CUSUM Coherence T²,0.500,0.500,0.400
+D-15,Freeze,Scalar/statistical,--,--,--,--
+D-15,Freeze,Factor/covariance,Factor-Cov LRT,0.750,0.750,0.667
+D-15,Freeze,Coherence,--,--,--,--
+D-15,Freeze,Fused,--,--,--,--
+D-15,Freeze,EWMA/CUSUM,CUSUM Factor LRT,0.611,0.500,0.600
+D-15,CorrMix,Scalar/statistical,Hotelling T²,0.727,0.727,0.733
+D-15,CorrMix,Factor/covariance,Factor-Covariance Delta,0.167,0.167,1.000
+D-15,CorrMix,Coherence,Coherence Residual T²,0.727,0.727,0.733
+D-15,CorrMix,Fused,Fused Sum-of-p,0.400,0.167,1.000
+D-15,CorrMix,EWMA/CUSUM,CUSUM Coherence T²,0.882,0.471,0.567

@@ -1,0 +1,4 @@
+run,setting,tiw_cap,n_clean_detectors,median_budget_coverage_full_19,median_joint_coverage_full_19,nonzero_joint_count_19,nonzero_joint_fraction_19,n_incident_rows_defined_A_B,median_MB_contract_pass_defined_rows
+cfpb_online_recal1_tiw010_seed0,TIW cap 0.10,0.1,19,0.6,0.0,4,0.21052631578947367,22,0.0
+cfpb_online_recal1_seed0,TIW cap 0.15 canonical,0.15,19,0.6875,0.0,8,0.42105263157894735,24,0.01818181818181818
+cfpb_online_recal1_tiw020_seed0,TIW cap 0.20,0.2,19,0.725,0.1,13,0.6842105263157895,30,0.09090909090909091

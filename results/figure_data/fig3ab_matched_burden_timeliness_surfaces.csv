@@ -1,0 +1,17 @@
+incident_family,recalibration,intensity,median_MB_Timely_at_K
+Freeze,Recalibration ON,0.25,0.19388944388944385
+Freeze,Recalibration ON,0.5,0.1948051948051948
+Freeze,Recalibration ON,0.75,0.22670454545454544
+Freeze,Recalibration ON,1.0,0.26647727272727273
+CorrMix,Recalibration ON,0.15,0.24508824508824506
+CorrMix,Recalibration ON,0.25,0.24508824508824506
+CorrMix,Recalibration ON,0.35,0.24508824508824506
+CorrMix,Recalibration ON,0.5,0.24508824508824506
+Freeze,Recalibration OFF,0.25,0.4375
+Freeze,Recalibration OFF,0.5,0.4625
+Freeze,Recalibration OFF,0.75,0.45
+Freeze,Recalibration OFF,1.0,0.7096774193548387
+CorrMix,Recalibration OFF,0.15,0.475
+CorrMix,Recalibration OFF,0.25,0.475
+CorrMix,Recalibration OFF,0.35,0.475
+CorrMix,Recalibration OFF,0.5,0.5125

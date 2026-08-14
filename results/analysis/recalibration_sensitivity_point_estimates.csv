@@ -1,0 +1,6 @@
+run,setting,n_clean_detectors,n_clean_positive_budget,median_budget_coverage_full_19,median_joint_coverage_full_19,median_budget_coverage_positive_menu,median_joint_coverage_positive_menu,nonzero_joint_count_19,nonzero_joint_fraction_19,n_incident_rows_total,n_incident_rows_defined_A_B,median_MB_timely_defined_rows,median_MB_contract_pass_defined_rows,median_all_trial_contract_pass_38,mean_corrupted_TIW_defined_rows
+cfpb_online_recal1_seed0,Canonical recalibration ON,19,12,0.6875,0.0,0.84375,0.025,8,0.42105263157894735,38,24,0.24508824508824506,0.01818181818181818,0.1125,0.22334123002148223
+cfpb_recal_win36_seed0,Window 36,19,11,0.5875,0.0,0.6875,0.025,9,0.47368421052631576,38,22,0.15488387978142076,0.01818181818181818,0.15625,0.21902130196674818
+cfpb_recal_eta015_seed0,Gain 0.15,19,13,0.6875,0.0,0.725,0.0125,8,0.42105263157894735,38,26,0.2391949152542373,0.00909090909090909,0.05,0.2421419033374426
+cfpb_recal_upd3_seed0,Update every 3,19,15,1.0,0.0,1.0,0.0375,8,0.42105263157894735,38,30,0.2875,0.01875,0.0375,0.2544074300757849
+cfpb_recal_maxup110_seed0,Max up 1.10,19,12,0.6875,0.0,0.84375,0.025,8,0.42105263157894735,38,24,0.24508824508824506,0.01818181818181818,0.1125,0.2232403520919405

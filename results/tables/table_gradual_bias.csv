@@ -1,0 +1,4 @@
+Dataset,Naive selected detector,Naive matched-burden Timely@K,Naive matched-burden contract pass,Naive corrupted-replay TIW,Matched-compliant selected detector,Compliant matched-burden Timely@K,Matched-burden contract pass,All-trial contract pass,Joint coverage,Clean-replay TIW,Corrupted-replay TIW,Incident-window CAD,Positive-budget detectors,Median joint coverage among positive-budget detectors
+CFPB,CUSUM Factor LRT,0.649,0.000,0.417,Fused Fisher,0.221,0.221,0.250,0.450,0.156,0.152,0.050,12/19,0.025
+SMAP A-1,Stale Persistence Baseline,0.567,0.000,0.438,CUSUM Coherence T²,0.417,0.417,0.200,0.400,0.022,0.022,0.000,18/19,1.000
+SMAP D-15,Stale Persistence Baseline,1.000,0.000,0.404,CUSUM Factor LRT,0.333,0.278,0.167,0.600,0.017,0.018,0.036,19/19,0.733

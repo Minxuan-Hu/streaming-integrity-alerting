@@ -1,0 +1,2 @@
+timeline,scope,recalibration_ON_mean_pass,recalibration_OFF_mean_pass,difference_ON_minus_OFF,n_aligned_configuration_window_rows_ON,n_aligned_configuration_window_rows_OFF,source_ON,source_OFF,uncertainty_treatment
+fixed observed clean timeline,attacked slice; budgets B>=0.75,0.5157894736842106,0.09824561403508772,0.4175438596491229,285,285,data/runs/cfpb_online_recal1_seed0/drift_slice_summary_paper.csv,data/runs/cfpb_online_recal0_seed0/drift_slice_summary_paper.csv,descriptive only; no interval from incident-trial bootstrap

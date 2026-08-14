@@ -1,0 +1,4 @@
+category,count,fraction
+No alert-stream change,488,0.5083333333333333
+Changed + warning overlap,360,0.375
+Silent suppression,112,0.1166666666666666

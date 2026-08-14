@@ -1,0 +1,5 @@
+display_row,run,kind,panel,detector,budget,strength
+Fused Fisher,cfpb_online_recal1_seed0,freeze,score_only,fused_fisher,1.0,1.0
+Coherence residual T2,cfpb_online_recal1_seed0,freeze,score_only,coh_resid_t2,1.0,1.0
+CUSUM Factor LRT,cfpb_online_recal1_seed0,freeze,score_only,cusum_factor_cov_lrt,1.0,1.0
+Max Abs control,cfpb_online_recal1_seed0,freeze,all_only,max_abs,1.0,1.0

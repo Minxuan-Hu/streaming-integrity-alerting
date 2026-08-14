@@ -1,0 +1,5 @@
+display_row,kind,panel,detector,n_total,n_A_B,n_A_J,matched_burden_timely_at_k,matched_burden_contract_pass_rate,coverage_joint,mean_tiw_clean_matched,mean_tiw_corrupted_matched,mean_cad_win_matched
+Fused Fisher,freeze,attacked,fused_fisher,80,77,36,0.44155844155844154,0.33766233766233766,0.45,0.15584415584415584,0.15539632781012092,0.1753246753246753
+Coherence residual T2,freeze,attacked,coh_resid_t2,80,80,7,0.8,0.0875,0.0875,0.22133620689655173,0.20150862068965517,0.4083333333333333
+CUSUM Factor LRT,freeze,attacked,cusum_factor_cov_lrt,80,77,0,0.8831168831168831,0.0,0.0,0.4171518137035378,0.4308105687416033,0.30519480519480513
+Max Abs control,freeze,control,max_abs,80,80,14,0.275,0.125,0.175,0.1877155172413793,0.1877155172413793,0.0

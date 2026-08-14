@@ -1,0 +1,4 @@
+Drift start,Clean pass-rate mean,Drift pass-rate mean,Pass-rate change,Flip 1→0 rate,Max event-ratio increase,95th-percentile TIW ratio
+2020-01-01,0.509,0.544,+0.035,0.018,0.333,3.704
+2021-01-01,0.509,0.456,-0.053,0.053,0.667,4.444
+2022-01-01,0.509,0.333,-0.175,0.193,1.333,4.148

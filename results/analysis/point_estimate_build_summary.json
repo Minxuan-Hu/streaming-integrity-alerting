@@ -1,0 +1,32 @@
+{
+  "clean_regime_pass_descriptive": {
+    "OFF": 0.09824561403508772,
+    "ON": 0.5157894736842106
+  },
+  "coverage_full19": {
+    "interpretation": "Median over all 19 detector configurations.",
+    "median_absolute_drop_budget_minus_joint": 0.6875,
+    "median_budget_coverage": 0.6875,
+    "median_joint_coverage": 0.0,
+    "menu": "full_fixed_19",
+    "n_configurations": 19
+  },
+  "coverage_positive12": {
+    "interpretation": "Median over the 12 detector configurations with positive budget coverage in the canonical analysis.",
+    "median_absolute_drop_budget_minus_joint": 0.81875,
+    "median_budget_coverage": 0.84375,
+    "median_joint_coverage": 0.025,
+    "menu": "fixed_observed_positive_budget_12",
+    "n_configurations": 12
+  },
+  "n_base_trials": 80,
+  "n_clean_detectors": 19,
+  "n_incident_rows": 38,
+  "n_point_rows": 1127,
+  "n_positive_budget_detectors": 12,
+  "n_rows_defined_under_both_settings": 22,
+  "nonzero_joint_OFF": "0/19",
+  "nonzero_joint_ON": "8/19",
+  "silent_suppression": "112/960",
+  "status": "PASS"
+}

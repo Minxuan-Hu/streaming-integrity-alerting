@@ -1,0 +1,3 @@
+Detector set,Detectors,Median budget coverage [95% interval],Median joint coverage [95% interval],Budget-minus-joint drop [95% interval]
+All 19 detectors,19,"0.688 [0.575, 0.763]","0.000 [0.000, 0.000]","0.688 [0.575, 0.763]"
+Positive-budget 12-detector subset,12,"0.844 [0.800, 0.888]","0.025 [0.000, 0.063]","0.819 [0.763, 0.869]"

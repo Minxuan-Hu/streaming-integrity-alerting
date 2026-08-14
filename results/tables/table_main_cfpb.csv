@@ -1,0 +1,5 @@
+Detector,Slice,Detector family,Incident family,Matched-burden Timely@K,Matched-burden contract pass,Joint coverage,Clean-replay TIW,Corrupted-replay TIW,Incident-window CAD
+Fused Fisher,Attacked,Fused,Freeze,0.442,0.338,0.450,0.156,0.155,0.175
+Coherence residual T²,Attacked,Coherence,Freeze,0.800,0.088,0.088,0.221,0.202,0.408
+CUSUM Factor LRT,Attacked,EWMA/CUSUM,Freeze,0.883,0.000,0.000,0.417,0.431,0.305
+Max Abs,Control,Scalar/statistical,Freeze,0.275,0.125,0.175,0.188,0.188,0.000

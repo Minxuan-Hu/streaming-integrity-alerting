@@ -1,0 +1,5 @@
+display_row,kind,panel,detector,n_total,n_A_B,n_A_J,n_timely_A_B,n_matched_contract_pass,n_all_trial_contract_pass,all_trial_contract_pass_rate,mean_false_alert_events_corrupted_matched,mean_tiw_clean_matched,mean_tiw_corrupted_matched
+Fused Fisher,freeze,attacked,fused_fisher,80,77,36,34,26,27,0.3375,0.8571428571428571,0.15584415584415584,0.15539632781012092
+Coherence residual T2,freeze,attacked,coh_resid_t2,80,80,7,64,7,7,0.0875,0.796551724137931,0.22133620689655173,0.20150862068965517
+CUSUM Factor LRT,freeze,attacked,cusum_factor_cov_lrt,80,77,0,68,0,0,0.0,1.1742051052395879,0.4171518137035378,0.4308105687416033
+Max Abs control,freeze,control,max_abs,80,80,14,22,10,10,0.125,0.9594827586206897,0.1877155172413793,0.1877155172413793

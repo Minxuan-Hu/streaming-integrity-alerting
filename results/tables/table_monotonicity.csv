@@ -1,0 +1,5 @@
+Incident family,Slice,Testable curves,Monotonicity pass
+Freeze,Attacked slice,12,11/12
+Freeze,Control slice,4,4/4
+CorrMix,Attacked slice,12,12/12
+CorrMix,Control slice,4,4/4

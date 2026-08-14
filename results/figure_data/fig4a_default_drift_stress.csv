@@ -1,0 +1,6 @@
+metric,value
+Clean pass rate,0.5157894736842106
+Drift pass rate,0.5263157894736842
+Flip 1→0 rate,0.031578947368421
+Maximum event-burden ratio,2.6666666666666665
+Maximum TIW-burden ratio,4.444444444444445

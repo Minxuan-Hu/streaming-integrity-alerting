@@ -1,0 +1,20 @@
+{
+  "R_total": 5000,
+  "expanded_pairing_rows": 78,
+  "resampling_matrix": "data/manifests/paired_base_trial_resampling_indices_5000x80.npy",
+  "resampling_matrix_sha256": "d0efa06144bdc1495604a0b87d874071fa6144842bb230252fcbccd804d2e290",
+  "scope": [
+    "four selected CFPB operating rows",
+    "fixed 19-detector clean-workload coverage menu",
+    "fixed observed 12-detector positive-budget coverage menu",
+    "primary recalibration full-menu contrasts",
+    "secondary matched-burden recalibration contrasts over 22 configurations defined under both settings"
+  ],
+  "secondary_22_R_valid": 4770,
+  "selected_control_pairing_asserted_ON_and_OFF": true,
+  "selected_rows_min_R_valid": 5000,
+  "status": "CORE_CFPB_INTERVALS_COMPLETE",
+  "support_threshold": 4750,
+  "tiw_complete_inside_A_B_asserted": true,
+  "transition_counts_directly_paired_and_sum_to_19": true
+}

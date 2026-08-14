@@ -1,0 +1,14 @@
+{
+  "panel_csv": "cfpb_data/cfpb_panel.csv",
+  "out_dir": "results/cfpb_gradual_bias_seed0",
+  "train_end": "2019-12-01",
+  "earliest": "2020-01-01",
+  "time_mode": "calendar_month",
+  "steps_per_year": "auto",
+  "seed": 0,
+  "seed_all": 1,
+  "ci_seed": 0,
+  "drift_seed": 0,
+  "drift_noise_seed": 0,
+  "cmd": "python run_contract_eval.py --panel_csv cfpb_data/cfpb_panel.csv --out_dir results/cfpb_gradual_bias_seed0 --train_end 2019-12-01 --earliest 2020-01-01 --n_trials 80 --duration 6 --budgets 1.0 --alert_policy event_budgeted --merge_gap 1 --cooldown_months 2 --max_episode_months 6 --tiw_budget 0.15 --guardband 1.00 --online_recal 1 --p_ctrl_window 60 --p_update_every 1 --p_eta 0.30 --p_max_up 1.25 --freeze_strength_grid 0.0 --corr_mix_strength_grid 0.0 --do_benign_drift 1 --benign_drift_eval_mode incident_like --benign_drift_strength_grid 0.25,0.50,0.75,1.00 --monotone_tau 0.02 --monotone_min_primary 20 --monotone_min_coverage 0.05 --monotone_focus_metric event_timely_sla_rate --do_perm_control 0 --ci_n_boot 0 --seed 0 --seed_all 1"
+}

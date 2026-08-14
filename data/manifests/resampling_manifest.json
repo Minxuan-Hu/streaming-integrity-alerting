@@ -1,0 +1,35 @@
+{
+  "bit_generator": "PCG64",
+  "common_vector_scope": [
+    "all detectors",
+    "Freeze and CorrMix",
+    "recalibration ON and OFF"
+  ],
+  "draws_per_replicate": 80,
+  "index_dtype": "uint16",
+  "index_file": "paired_base_trial_resampling_indices_5000x80.npy",
+  "index_file_sha256": "d0efa06144bdc1495604a0b87d874071fa6144842bb230252fcbccd804d2e290",
+  "index_matrix_shape": [
+    5000,
+    80
+  ],
+  "matched_burden_min_valid_replicates": 4750,
+  "numpy_quantile_method": "linear",
+  "numpy_version": "2.3.5",
+  "pandas_version": "2.2.3",
+  "percentile_endpoints": [
+    0.025,
+    0.975
+  ],
+  "percentiles_over": "valid replicates only",
+  "platform": "Linux-4.4.0-x86_64-with-glibc2.41",
+  "python_version": "3.13.5 (main, May  5 2026, 21:05:52) [GCC 14.2.0]",
+  "replicates": 5000,
+  "resampling_unit": "aligned base_trial",
+  "rng": "numpy.random.Generator",
+  "sampling": "with replacement",
+  "scipy_version": "1.17.0",
+  "seed": 42,
+  "seed_label": "prespecified resampling seed",
+  "support_fraction_required": 0.95
+}

@@ -1,0 +1,14 @@
+{
+  "panel_csv": "smap_data/smap_D-15_panel_k7_mean.csv",
+  "out_dir": "results/smap_D15_gradual_bias_seed0",
+  "train_end": "2005-08-27",
+  "earliest": "2005-09-03",
+  "time_mode": "step",
+  "steps_per_year": "52",
+  "seed": 0,
+  "seed_all": 1,
+  "ci_seed": 0,
+  "drift_seed": 0,
+  "drift_noise_seed": 0,
+  "cmd": "python run_contract_eval.py --panel_csv smap_data/smap_D-15_panel_k7_mean.csv --out_dir results/smap_D15_gradual_bias_seed0 --date_col date --time_mode step --steps_per_year 52 --train_end 2005-08-27 --earliest 2005-09-03 --n_trials 30 --duration 26 --budgets 1.0,2.0 --alert_policy event_budgeted --merge_gap 1 --cooldown_months 26 --max_episode_months 26 --tiw_budget 0.15 --guardband 1.00 --online_recal 1 --p_ctrl_window 156 --p_update_every 1 --p_eta 0.30 --p_max_up 1.25 --regime_window_months 156 --regime_stride_months 52 --freeze_strength_grid 0.0 --corr_mix_strength_grid 0.0 --do_benign_drift 1 --benign_drift_eval_mode incident_like --benign_drift_strength_grid 0.25,0.50,0.75,1.00 --timeliness_sla_months 4 --monotone_tau 0.02 --monotone_min_primary 10 --monotone_min_coverage 0.05 --monotone_focus_metric event_timely_sla_rate --do_perm_control 0 --ci_n_boot 0 --seed 0 --seed_all 1"
+}

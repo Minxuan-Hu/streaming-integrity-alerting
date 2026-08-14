@@ -1,0 +1,7 @@
+Dataset,Incident family,Naive selected detector,Matched-compliant selected detector,Naive matched-burden Timely@K,Compliant matched-burden Timely@K,Matched-burden contract pass,All-trial contract pass,Attacked-slice incident-window CAD,Control-slice incident-window CAD,Positive-budget detectors,Median joint coverage among positive-budget detectors
+CFPB,CorrMix,CUSUM Factor LRT,Factor-Cov LRT-Δ,0.649,0.256,0.256,0.275,0.000,0.000,12/19,0.025
+CFPB,Freeze,CUSUM Factor LRT,Fused Fisher,0.883,0.442,0.338,0.338,0.175,0.000,12/19,0.025
+SMAP A-1,CorrMix,Stale Persistence Baseline,CUSUM Coherence T²,0.567,0.500,0.500,0.300,0.045,0.000,18/19,1.000
+SMAP A-1,Freeze,Stale Persistence Baseline,CUSUM Coherence T²,0.567,0.500,0.500,0.300,0.196,0.000,18/19,1.000
+SMAP D-15,CorrMix,Stale Persistence Baseline,EWMA Coherence T²,1.000,0.818,0.818,0.867,0.140,0.000,19/19,0.733
+SMAP D-15,Freeze,Stale Persistence Baseline,Factor-Cov LRT,1.000,0.750,0.750,0.833,0.075,0.000,19/19,0.733
