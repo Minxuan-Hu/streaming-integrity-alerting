@@ -2,7 +2,7 @@
 
 Code and archived experiment outputs for **A Deployment-Oriented Framework for Evaluating Streaming Integrity Alerting Under Workload Constraints**.
 
-This anonymous review repository contains no author-identifying information and does not redistribute the source datasets or constructed data panels.
+This repository contains the code and archived outputs supporting the paper and does not redistribute the source datasets or constructed data panels.
 
 The repository supports two workflows:
 
