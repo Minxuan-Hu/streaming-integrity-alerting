@@ -2,6 +2,8 @@
 
 Code and archived experiment outputs for **A Deployment-Oriented Framework for Evaluating Streaming Integrity Alerting Under Workload Constraints**.
 
+**Publication:** *Expert Systems with Applications*, 333 (2027), 134305. [DOI: 10.1016/j.eswa.2026.134305](https://doi.org/10.1016/j.eswa.2026.134305)
+
 This repository contains the code and archived outputs supporting the paper and does not redistribute the source datasets or constructed data panels.
 
 The repository supports two workflows:
@@ -109,6 +111,22 @@ Full reruns are substantially more computationally expensive than the quick repr
 - `expected/`: reference checksums used by validation
 - `results/`: regenerated paper tables, figures, and validation output
 - `scripts/run_evaluation.py`: saved-configuration rerun helper
+
+## Citation
+
+If you use this work in your research, please cite:
+
+```bibtex
+@article{HU2027134305,
+  author  = {Hu, Minxuan},
+  title   = {A deployment-oriented framework for evaluating streaming integrity alerting under workload constraints},
+  journal = {Expert Systems with Applications},
+  volume  = {333},
+  pages   = {134305},
+  year    = {2027},
+  doi     = {10.1016/j.eswa.2026.134305}
+}
+```
 
 ## License
 
