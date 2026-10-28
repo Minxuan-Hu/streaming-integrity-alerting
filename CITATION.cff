@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite the published paper."
+authors:
+  - family-names: "Hu"
+    given-names: "Minxuan"
+title: "Streaming Integrity Alerting"
+url: "https://github.com/Minxuan-Hu/streaming-integrity-alerting"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Hu"
+      given-names: "Minxuan"
+  title: "A deployment-oriented framework for evaluating streaming integrity alerting under workload constraints"
+  journal: "Expert Systems with Applications"
+  volume: 333
+  year: 2027
+  doi: "10.1016/j.eswa.2026.134305"
